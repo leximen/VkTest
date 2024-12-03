@@ -1,0 +1,18 @@
+"/Users/andrey/Desktop/TestTest/TestTest/Extensions/UIView-Ext.swift":
+  object: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIView-Ext.o"
+  dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIView-Ext.d"
+  const-values: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIView-Ext.swiftconstvalues"
+  diagnostics: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIView-Ext.dia"
+  swift-dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIView-Ext.swiftdeps"
+"/Users/andrey/Desktop/TestTest/TestTest/ViewController.swift":
+  dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ViewController.d"
+  object: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ViewController.o"
+  swift-dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ViewController.swiftdeps"
+  diagnostics: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ViewController.dia"
+  const-values: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ViewController.swiftconstvalues"
+"/Users/andrey/Desktop/TestTest/TestTest/Network/Network.swift":
+  diagnostics: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Network.dia"
+  dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Network.d"
+  const-values: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Network.swiftconstvalues"
+  swift-dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Network.swiftdeps"
+  object: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Network.o"

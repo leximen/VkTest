@@ -1,0 +1,208 @@
+{
+  "" : {
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TestTest-master.dia",
+    "emit-module-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TestTest-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TestTest-master-emit-module.dia",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TestTest-master.swiftdeps"
+  },
+  "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/AppDelegate/AppDelegate.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/AppDelegate.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/AppDelegate.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/AppDelegate.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/AppDelegate.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/AppDelegate.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/AppDelegate/SceneDelegate.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SceneDelegate.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SceneDelegate.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SceneDelegate.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SceneDelegate.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SceneDelegate.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SceneDelegate.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SceneDelegate.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SceneDelegate~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Cells/SearchPhotoCell.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoCell.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoCell.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoCell.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoCell.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoCell.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoCell.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoCell.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoCell~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Extensions/UICollectionViewCell.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UICollectionViewCell.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UICollectionViewCell.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UICollectionViewCell.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UICollectionViewCell.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UICollectionViewCell.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UICollectionViewCell.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UICollectionViewCell.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UICollectionViewCell~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Extensions/UIColor-Ext.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIColor-Ext.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIColor-Ext.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIColor-Ext.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIColor-Ext.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIColor-Ext.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIColor-Ext.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIColor-Ext.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIColor-Ext~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Extensions/UIView-Ext.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIView-Ext.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIView-Ext.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIView-Ext.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIView-Ext.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIView-Ext.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIView-Ext.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIView-Ext.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIView-Ext~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Models/FavoriteDataModel.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoriteDataModel.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoriteDataModel.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoriteDataModel.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoriteDataModel.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoriteDataModel.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoriteDataModel.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoriteDataModel.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoriteDataModel~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Models/Theme.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Theme.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Theme.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Theme.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Theme.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Theme.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Theme.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Theme.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Theme~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Models/UnsplashData.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UnsplashData.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UnsplashData.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UnsplashData.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UnsplashData.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UnsplashData.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UnsplashData.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UnsplashData.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UnsplashData~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Network/ErrorNetwork.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ErrorNetwork.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ErrorNetwork.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ErrorNetwork.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ErrorNetwork.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ErrorNetwork.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ErrorNetwork.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ErrorNetwork.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ErrorNetwork~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Network/Network.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Network.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Network.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Network.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Network.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Network.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Network.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Network.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Network~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ViewController.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ViewController.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ViewController.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ViewController.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ViewController.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ViewController.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ViewController.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/ViewController~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/BaseViewController.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/BaseViewController.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/BaseViewController.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/BaseViewController.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/BaseViewController.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/BaseViewController.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/BaseViewController.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/BaseViewController.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/BaseViewController~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/Favorite Controller/Search Photo/Presenter/SearchPhotoPresenter.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoPresenter.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoPresenter.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoPresenter.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoPresenter.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoPresenter.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoPresenter.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoPresenter.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoPresenter~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/Favorite Controller/Search Photo/View/SearchPhotoViewController.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoViewController.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoViewController.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoViewController.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoViewController.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoViewController.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoViewController.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoViewController.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoViewController~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/FavoritePhotoViewController.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoritePhotoViewController.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoritePhotoViewController.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoritePhotoViewController.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoritePhotoViewController.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoritePhotoViewController.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoritePhotoViewController.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoritePhotoViewController.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoritePhotoViewController~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/InformationPhotoViewController.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/InformationPhotoViewController.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/InformationPhotoViewController.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/InformationPhotoViewController.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/InformationPhotoViewController.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/InformationPhotoViewController.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/InformationPhotoViewController.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/InformationPhotoViewController.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/InformationPhotoViewController~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/TabBarController.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TabBarController.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TabBarController.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TabBarController.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TabBarController.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TabBarController.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TabBarController.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TabBarController.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TabBarController~partial.swiftmodule"
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/UIPhotoCollectionViewController.swift" : {
+    "const-values" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIPhotoCollectionViewController.swiftconstvalues",
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIPhotoCollectionViewController.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIPhotoCollectionViewController.dia",
+    "index-unit-output-path" : "/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIPhotoCollectionViewController.o",
+    "llvm-bc" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIPhotoCollectionViewController.bc",
+    "object" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIPhotoCollectionViewController.o",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIPhotoCollectionViewController.swiftdeps",
+    "swiftmodule" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/UIPhotoCollectionViewController~partial.swiftmodule"
+  }
+}

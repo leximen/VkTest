@@ -1,0 +1,18 @@
+"/Users/andrey/Desktop/TestTest/TestTest/Models/Theme.swift":
+  diagnostics: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Theme.dia"
+  const-values: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Theme.swiftconstvalues"
+  dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Theme.d"
+  swift-dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Theme.swiftdeps"
+  object: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/Theme.o"
+"/Users/andrey/Desktop/TestTest/TestTest/ViewController/BaseViewController.swift":
+  const-values: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/BaseViewController.swiftconstvalues"
+  diagnostics: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/BaseViewController.dia"
+  dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/BaseViewController.d"
+  object: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/BaseViewController.o"
+  swift-dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/BaseViewController.swiftdeps"
+"/Users/andrey/Desktop/TestTest/TestTest/AppDelegate/AppDelegate.swift":
+  object: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/AppDelegate.o"
+  swift-dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/AppDelegate.swiftdeps"
+  const-values: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/AppDelegate.swiftconstvalues"
+  dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/AppDelegate.d"
+  diagnostics: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/AppDelegate.dia"

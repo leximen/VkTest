@@ -1,0 +1,4 @@
+module SDWebImage {
+umbrella header "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/SourcePackages/checkouts/SDWebImage/SDWebImage/include/SDWebImage/SDWebImage.h"
+export *
+}

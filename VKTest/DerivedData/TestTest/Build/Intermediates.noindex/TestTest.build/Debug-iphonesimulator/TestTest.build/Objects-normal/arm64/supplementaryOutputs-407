@@ -1,0 +1,18 @@
+"/Users/andrey/Desktop/TestTest/TestTest/Models/FavoriteDataModel.swift":
+  object: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoriteDataModel.o"
+  const-values: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoriteDataModel.swiftconstvalues"
+  diagnostics: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoriteDataModel.dia"
+  dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoriteDataModel.d"
+  swift-dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/FavoriteDataModel.swiftdeps"
+"/Users/andrey/Desktop/TestTest/TestTest/ViewController/TabBarController.swift":
+  diagnostics: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TabBarController.dia"
+  const-values: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TabBarController.swiftconstvalues"
+  dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TabBarController.d"
+  swift-dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TabBarController.swiftdeps"
+  object: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TabBarController.o"
+"/Users/andrey/Desktop/TestTest/TestTest/Cells/SearchPhotoCell.swift":
+  dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoCell.d"
+  const-values: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoCell.swiftconstvalues"
+  diagnostics: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoCell.dia"
+  swift-dependencies: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoCell.swiftdeps"
+  object: "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/SearchPhotoCell.o"

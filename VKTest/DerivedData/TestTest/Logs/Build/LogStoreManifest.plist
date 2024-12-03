@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>09806778-1B60-477B-9F7A-E5FE01DF2338</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>09806778-1B60-477B-9F7A-E5FE01DF2338.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestTest</string>
+			<key>timeStartedRecording</key>
+			<real>754862265.78807604</real>
+			<key>timeStoppedRecording</key>
+			<real>754862270.58260202</real>
+			<key>title</key>
+			<string>Build TestTest</string>
+			<key>uniqueIdentifier</key>
+			<string>09806778-1B60-477B-9F7A-E5FE01DF2338</string>
+		</dict>
+		<key>2FE1C067-6652-491B-8B12-7394A5978176</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2FE1C067-6652-491B-8B12-7394A5978176.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>TestTest project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>TestTest</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build TestTest</string>
+			<key>timeStartedRecording</key>
+			<real>754839537.34893095</real>
+			<key>timeStoppedRecording</key>
+			<real>754839539.95497406</real>
+			<key>title</key>
+			<string>Build TestTest</string>
+			<key>uniqueIdentifier</key>
+			<string>2FE1C067-6652-491B-8B12-7394A5978176</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

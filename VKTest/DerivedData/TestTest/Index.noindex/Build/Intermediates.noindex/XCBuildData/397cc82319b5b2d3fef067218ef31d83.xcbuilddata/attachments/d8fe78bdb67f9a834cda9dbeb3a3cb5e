@@ -1,0 +1,69 @@
+{
+  "" : {
+    "dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Index.noindex/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TestTest-master.d",
+    "diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Index.noindex/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TestTest-master.dia",
+    "emit-module-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Index.noindex/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TestTest-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Index.noindex/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TestTest-master-emit-module.dia",
+    "swift-dependencies" : "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Index.noindex/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/Objects-normal/arm64/TestTest-master.swiftdeps"
+  },
+  "/Users/andrey/Desktop/TestTest/DerivedData/TestTest/Index.noindex/Build/Intermediates.noindex/TestTest.build/Debug-iphonesimulator/TestTest.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/AppDelegate/AppDelegate.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/AppDelegate/SceneDelegate.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Cells/SearchPhotoCell.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Extensions/UICollectionViewCell.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Extensions/UIColor-Ext.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Extensions/UIView-Ext.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Models/FavoriteDataModel.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Models/Theme.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Models/UnsplashData.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Network/ErrorNetwork.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/Network/Network.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/BaseViewController.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/Favorite Controller/Search Photo/Presenter/SearchPhotoPresenter.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/Favorite Controller/Search Photo/View/SearchPhotoViewController.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/FavoritePhotoViewController.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/InformationPhotoViewController.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/TabBarController.swift" : {
+
+  },
+  "/Users/andrey/Desktop/TestTest/TestTest/ViewController/UIPhotoCollectionViewController.swift" : {
+
+  }
+}
